@@ -1,4 +1,18 @@
 {
+  "weathers": [
+    {
+      "city": "Istanbul",
+      "temperature": 20
+    },
+    {
+      "city": "Ankara",
+      "temperature": 15
+    },
+    {
+      "city": "Izmir",
+      "temperature": 25
+    }
+  ],
   "users": [
     {
       "name": "Zafer",
