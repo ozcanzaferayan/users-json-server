@@ -1,14 +1,30 @@
-[
-  {
-    "name": "Zafer",
-    "salary": 5000
-  },
-  {
-    "name": "Mehmet",
-    "salary": 4000
-  },
-  {
-    "name": "Ali",
-    "salary": 3000
-  }
-]
+{
+  "users": [
+    {
+      "name": "Zafer",
+      "salary": 5000
+    },
+    {
+      "name": "Mehmet",
+      "salary": 4000
+    },
+    {
+      "name": "Ali",
+      "salary": 3000
+    }
+  ],
+  "groceries": [
+    {
+      "name": "Apple",
+      "price": 2
+    },
+    {
+      "name": "Banana",
+      "price": 3
+    },
+    {
+      "name": "Orange",
+      "price": 4
+    }
+  ]
+}
